@@ -23,4 +23,4 @@ yarn-error.log*
 # Additional files
 package-lock.json
 server.php
-webpack.config.js
+
